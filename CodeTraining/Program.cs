@@ -39,7 +39,13 @@ class Solution
 
         //S10_MaxProfit.test();
 
-        S11_NumbersOfDiscIntersect.test();
+        //S11_NumbersOfDiscIntersect.test();
+
+        //S12_PassingCars.test();
+
+        //S13_CountDiv.test();
+
+        S14_Flags.test();
 
     }
 }
